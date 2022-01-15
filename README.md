@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=dsukruth)
 <br>
 
-<h1 align="center">Hi there 👋, I'm Dhanush </h1>
+<h1 align="center">Hi there 👋, I'm Dhanush P Sukruth </h1>
 <hr>
 <h3 align="center">Currently working as a Software Engineer at Indian Space Research Organisation  </h3>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
