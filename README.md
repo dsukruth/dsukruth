@@ -46,4 +46,4 @@
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsukruth&theme=dark&show_icons=true" height="200" width="495" alt="Dsukruth" count_private ="true"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsukruth&theme=dark&show_icons=true&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
