@@ -20,7 +20,7 @@
 
 - 👨‍💻 I solve DSA problems in **Java** , Also Interested in DevOps
 
-
+- Secretly working on my own side projects here 
 
 <hr>
 
@@ -44,6 +44,9 @@
 </p>
 
 
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsukruth&theme=dark&show_icons=true&count_private=true&layout=compact"  height="200" width="515" alt="Dsukruth" /></p>
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsukruth&theme=dark&show_icons=true&count_private=true&layout=compact"  height="200" width="515" alt="Dsukruth" /></p>
