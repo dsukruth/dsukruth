@@ -49,4 +49,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsukruth&theme=dark&show_icons=true&count_private=true&layout=compact"  height="200" width="515" alt="Dsukruth" /></p>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsukruth&layout=compact&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsukruth&theme=dark&show_icons=true&layout=compact&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
