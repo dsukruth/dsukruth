@@ -20,7 +20,7 @@
 
 - 👨‍💻 I solve DSA problems in **Java** , Also Interested in DevOps
 
-- :heavy_dollar_sign: Secretly working on my own side projects! 
+- :alien: Secretly working on my own side projects! 
 
 <hr>
 
