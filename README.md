@@ -18,7 +18,7 @@
 
 - ↗ Visit my portfolio at **[Dhanush P Sukruth Portfolio](https://dhanushpsukruth.me)**
 
-- 👨‍💻 I solve DSA problems in **Java** , Also Interested in DevOps
+- 👨‍💻 Interested in DevOps
 
 - :alien: Secretly working on my own side projects! 
 
