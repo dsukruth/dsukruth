@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **BLOCKCHAIN , PYTHON**
 
-- 🌱 I’m currently learning Rust** from https://doc.rust-lang.org/stable/book/
+- 🌱 I’m currently learning **Rust** from https://doc.rust-lang.org/stable/book/
 
 - 👯 I’m looking to collaborate on **[LinkedIn- DhanushPSukruth](https://www.linkedin.com/in/dhanush-p-sukruth-76821a157/)**
 
