@@ -9,7 +9,7 @@
 </a>
 
 
-- 🔭 I’m currently working on **BLOCKCHAIN , PYTHON**
+- 🔭 I’m currently working on **WEB 3**
 
 - 🌱 I’m currently learning **Rust** from https://doc.rust-lang.org/stable/book/
 
