@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhanushpsukruth@duck.com**
 
-- ↗ Visit my portfolio at **[Dhanush P Sukruth Portfolio](https://dhanushpsukruth.me)**
+- ↗ Visit my portfolio at **[Dhanush P Sukruth Portfolio](https://dhanushpsukruth.devfolio.io)**
 
 - 👨‍💻 Interested in DevOps
 
