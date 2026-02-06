@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhanushpsukruth@duck.com**
 
-- ↗ Visit my portfolio at **[Dhanush P Sukruth Portfolio](https://dhanushpsukruth.devfolio.io)**
+- ↗ Visit my portfolio at **[Dhanush P Sukruth Portfolio](https://www.dhanushpsukruth.com)**
 
 - 👨‍💻 Interested in DevOps
 
@@ -51,4 +51,5 @@
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsukruth&theme=dark&show_icons=true&layout=compact&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
+
 
