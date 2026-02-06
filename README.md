@@ -9,7 +9,7 @@
 </a>
 
 
-- 🔭 I’m currently working on **WEB 3**
+- 🔭 I’m currently working on **AI**
 
 - 🌱 I’m currently learning **Rust** from https://doc.rust-lang.org/stable/book/
 
@@ -51,3 +51,4 @@
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsukruth&theme=dark&show_icons=true&layout=compact&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
+
