@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Rust** from https://doc.rust-lang.org/stable/book/
 
-- 👯 I’m looking to collaborate on **[LinkedIn- DhanushPSukruth](https://www.linkedin.com/in/dhanush-p-sukruth-76821a157/)**
+- 👯 I’m looking to collaborate on **[LinkedIn- DhanushPSukruth](https://www.linkedin.com/in/dhanush-p-sukruth)**
 
 - 📫 How to reach me **dhanushpsukruth@duck.com**
 
@@ -51,5 +51,6 @@
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsukruth&theme=dark&show_icons=true&layout=compact&count_private=true"  height="200" width="515" alt="Dsukruth" /></p>
+
 
 
