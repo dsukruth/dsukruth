@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Dhanush P Sukruth </h1>
 <hr>
-<h3 align="center">Software Engineer at Indian Space Research Organisation :rocket:	 </h3>
+<h3 align="center">AI Engineer :rocket:	 </h3>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
 </a>
 
